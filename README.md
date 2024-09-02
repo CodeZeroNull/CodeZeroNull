@@ -1,6 +1,6 @@
 myprofile_v0
 
-## Hello there there 👋
+## Hello there 👋
 
 🔭 I am thinking about pivoting professionally. And it seems that a GitHub account is a must.
 So here I am. Pardon my shyness about username and AI-generated avatar.
