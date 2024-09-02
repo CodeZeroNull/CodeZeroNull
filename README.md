@@ -1,6 +1,6 @@
 myprofile_v0
 
-## Hello there 👋
+## Hello!
 
 🔭 I am thinking about pivoting professionally. 🤩  
 And it seems that a GitHub account is a must. So here I am. 🙂  
