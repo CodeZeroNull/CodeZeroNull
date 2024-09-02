@@ -1,9 +1,6 @@
-## Hello there there 👋
-
-<!--
-**CodeZeroNull/CodeZeroNull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 myprofile_v0
+
+## Hello there there 👋
 
 🔭 I am thinking about pivoting professionally. And it seems that a GitHub account is a must.
 So here I am. Pardon my shyness about username and AI-generated avatar.
