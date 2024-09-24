@@ -1,9 +1,6 @@
-myprofile_v0
-
 ## Hello!
 
-🔭 I am thinking about pivoting professionally. 🤩  
-And it seems that GitHub is a must. So here I am. 🙂  
+Here I am. 🙂  
 
 Pardon my shyness about username and AI-generated avatar. 🥸
   
